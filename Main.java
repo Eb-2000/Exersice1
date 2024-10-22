@@ -84,7 +84,6 @@ public class Main {
 //                ignoring the case, then prints whether they are equal or not
 
         String string1= "Hellow";
-        String string2="hellow";
         boolean result = string1.equalsIgnoreCase("hellow");
         System.out.println(result);
 
